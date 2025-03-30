@@ -10,7 +10,7 @@ Je suis un développeur passionné par les outils numériques et les ressources 
 
 ## 💼 Expérience professionnelle
 
-- **Développeur Fullstack freelance **
+- Développeur Fullstack freelance **
   - Développement et maintenance de l'application web principale en utilisant React et TypeScript.
   - Mise en place et gestion des pipelines CI/CD pour assurer des déploiements fluides et sans erreurs.
   - Collaboration étroite avec les designers et les autres développeurs pour créer des interfaces utilisateur intuitives et réactives.
